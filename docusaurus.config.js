@@ -106,7 +106,7 @@ const config = {
             ],
           },
           {
-            title: "Comunidad",
+            title: "Redes Sociales",
             items: [
               {
                 label: "Instagram",
@@ -123,7 +123,7 @@ const config = {
             ],
           },
           {
-            title: "Más",
+            title: "Más información",
             items: [
               {
                 label: "Blog",
