@@ -1,32 +1,36 @@
 ---
-title: Introducción
 sidebar_position: 1
+title: Introducción a CajaRápida
 ---
 
-# Introducción
+# Bienvenido a CajaRápida
 
-## Caja Rápida: Simplificando el cierre de caja diario
+**CajaRápida** es un software ERP diseñado específicamente para pequeñas y medianas empresas, ofreciendo una solución integral para optimizar la gestión de ventas, inventario y control de caja. Este sistema se caracteriza por su rapidez, facilidad de uso y eficiencia, adaptándose perfectamente a las necesidades de comerciantes que buscan simplificar sus procesos y aumentar su productividad.
 
-Bienvenido a la documentación de _Caja Rápida_, un sistema diseñado para:
+### ¿Qué hace único a CajaRápida?
 
-- Simplificar el cierre de caja en negocios.
-- Reducir errores humanos.
-- Aumentar la eficiencia del personal.
+Con funcionalidades como:
 
-### ¿Por qué elegir Caja Rápida?
+- **Control detallado de ventas**: Lleva un registro organizado y eficiente de las transacciones.
+- **Gestión de inventarios**: Asegura un control preciso de los productos disponibles.
+- **Monitoreo del flujo de caja**: Facilita el cierre diario y la verificación de ingresos.
+- **Administración de usuarios**: Permite definir roles y accesos en el sistema.
 
-- Fácil de usar.
-- Integración con escáneres de códigos de barras.
-- Generación de reportes en tiempo real.
+Además, **CajaRápida** incluye soporte técnico 24/7 y planes accesibles, lo que lo convierte en una herramienta clave para el crecimiento de tu negocio.
 
-### Funcionalidades principales
+### Opciones personalizables en ventas
 
-- **Carga de productos**: Organiza tu inventario por categorías, subcategorías y marcas.
-- **Registro de clientes**: Gestiona datos y preferencias de clientes.
-- **Generación de ventas**:
-  - Ventas rápidas (anónimas).
-  - Ventas vinculadas a clientes registrados.
-- **Registro de egresos e ingresos**: Mantén un control financiero eficiente.
-- **Cierre de caja**:
-  - Opciones: diario, semanal, mensual, o personalizado.
-- **Gestión de inventarios**: Carga previa de stock y actualizaciones dinámicas.
+CajaRápida se adapta a diferentes tipos de negocios con configuraciones específicas para las ventas:
+
+1. **Modo Base**:  
+   Diseñado para operaciones rápidas, ideal para kioscos u otros comercios pequeños. Permite cargar ventas de manera ágil y sencilla.
+
+2. **Modo Rotisería**:  
+   Perfecto para negocios que necesitan mayor flexibilidad en sus productos. Por ejemplo, al seleccionar un producto como "Hamburguesas", el sistema ofrece opciones configurables previamente, como:
+   - _Simple_
+   - _Doble_
+   - _Triple_
+
+Estas configuraciones aseguran que cada negocio pueda personalizar CajaRápida según sus necesidades específicas.
+
+¡Explora esta documentación para aprender cómo aprovechar todas las funcionalidades que CajaRápida tiene para ofrecer y hacer crecer tu negocio de manera eficiente!
