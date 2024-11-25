@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Carga de Ventas
 ---
 
-# Paso 5: Carga de Ventas
+# Carga de Ventas
 
 En esta sección se describe cómo realizar la **carga de ventas** en el sistema, ideal para gestionar pedidos de artículos como los de rotisería. Este proceso se lleva a cabo desde el módulo **Caja**.
 

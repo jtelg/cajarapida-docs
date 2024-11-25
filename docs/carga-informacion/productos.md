@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Carga de Productos
 ---
 
-# Paso 4: Carga de Productos
+# Carga de Productos
 
 Después de configurar las categorías y subcategorías, el siguiente paso es realizar la **carga de productos** en el sistema. Este proceso se lleva a cabo desde la sección de **Productos** en el tablero principal.
 

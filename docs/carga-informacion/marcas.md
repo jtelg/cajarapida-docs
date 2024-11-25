@@ -7,7 +7,7 @@ title: Carga de Marcas
 
 Las **marcas** serán utilizadas para organizar tus productos dentro del sistema. Cabe destacar que estas mismas son opcionales parametrizables y en el caso de no querer utilizarlas, el sistema puede configurarse para obviarlas.
 
-## Paso 1: Accede a la sección de Configuración
+## Accede a la sección de Configuración
 
 1. Desde el tablero principal, localiza el botón de **Configuración** (⚙️). Este botón se encuentra en la esquina superior derecha de tu pantalla.
 2. Haz clic en el botón para ser redirigido a la sección de configuración de tu sistema.
@@ -23,7 +23,7 @@ A continuación, te mostramos un ejemplo del tablero principal, resaltando el bo
   <p><small>Imagen del tablero principal con el botón de configuración resaltado.</small></p>
 </div>
 
-## Paso 2: Carga de Marcas
+## Carga de Marcas
 
 1. Dentro de la sección de configuración, dirígete a la subsección de **Productos**.
 2. Haz clic en el botón de **Marcas**

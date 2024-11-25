@@ -15,7 +15,7 @@ En esta sección se explica cómo realizar la **carga de ingresos** en el sistem
 
    <div style={{ textAlign: 'center' }}>
       <img 
-    src="../../img/alta-ingreso.png" 
+      src="../../img/alta-ingreso.png" 
         alt="Alta de Ingreso" 
         style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
       />
@@ -58,5 +58,5 @@ A continuación, se muestra la vista de una venta cargado en la sección **Venta
     alt="Vista de Venta Cargados" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
-  <p><small>Vista de formulario de alta de venta.</small></p>
+  <p><small>Vista de formulario de alta de ingreso.</small></p>
 </div>

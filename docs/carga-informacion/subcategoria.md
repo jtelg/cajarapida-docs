@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Carga de Subcategorías
 ---
 
-# Paso 3: Cargar Subcategorías
+# Cargar Subcategorías
 
 Una vez que hayas cargado las categorías, el siguiente paso es agregar las **subcategorías**. Las subcategorías te permiten organizar tus productos de manera más detallada dentro de cada categoría principal.
 
