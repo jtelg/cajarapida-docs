@@ -16,7 +16,7 @@ A continuación, te mostramos un ejemplo del tablero principal, resaltando el bo
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/boton-configuracion.png" 
+    src="../../../img/boton-configuracion.png" 
     alt="Ubicación del botón de configuración en CajaRápida" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
@@ -25,7 +25,7 @@ A continuación, te mostramos un ejemplo del tablero principal, resaltando el bo
 
 # Cargar Detalle de egresos
 
-Una vez que hayas cargado tipos de egresos, el siguiente paso es agregar las **detalle en cada tip**. Los detalles te permiten organizar tus egresos de manera más detallada dentro de cada Tipo principal.
+Una vez que hayas cargado tipos de egresos, el siguiente paso es agregar **detalle en cada tipo**. Los detalles te permiten organizar tus egresos de manera más detallada dentro de cada Tipo principal.
 
 ## Instrucciones:
 
@@ -34,29 +34,31 @@ Una vez que hayas cargado tipos de egresos, el siguiente paso es agregar las **d
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/agregar-tipoegreso.png" 
+    src="../../../img/egresotipo-detalle.png" 
     alt="Ubicación del botón de configuración en CajaRápida" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
   <p><small>Imagen del tablero de configuracion con el botón de agregar nuevo resaltado.</small></p>
 </div>
 
-3. Ingresa los siguientes datos:
+3. Ingresa los siguientes datos: (Esta ventana fue pensada como se ve en el ejemplo para proveedores, pero puede ser para cualquier otro tipo de egreso, como cadeteria, etc. Solo es obligatorio el Nombre o titulo del detalle.)
 
-- **Titulo**:
-  - Incluye un titulo que detalle el motivo o referencia del detalle de egreso.
-- **Descripción**:
-  - Incluye una breve descripción que detalle el motivo o referencia del detalle de egreso.
+- **Nombre o Titulo**: (Campo obligartorio)
+- **Apellido**
+- **DNI**
+- **Telefono**
+- **Email**
+- **Dirección**
 
 4. Guarda los cambios.
 
-> **Nota:** Asegúrate de cargar todas los detalle necesarias para cubrir los egresos que planeas registrar.
+> **Nota:** Asegúrate de cargar todas los detalles necesarias para cubrir los egresos que planeas registrar.
 
 ---
 
 ## Consideraciones Importantes
 
-- **Historial de Detalle de Egresos**: Una vez registrado, el detalle de egreso aparecerá en el listado con sus detalles correspondientes.
+- **Historial de Detalle de Egresos**: Una vez registrado, el detalle de egreso aparecerá en el listado con sus datos correspondientes.
 - **Edición de Detalle de Egresos**: Los detalle de egresos registrados pueden ser editados o eliminados si se requiere corrección.
 
 ---
@@ -67,9 +69,9 @@ A continuación, se muestra la vista de un detalle cargado en la sección **Deta
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/alta-egreso-tipo.png" 
+    src="../../../img/egresotipo-detalle-form.png" 
     alt="Vista de Venta Cargados" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
-  <p><small>Vista de formulario de alta de ingreso.</small></p>
+  <p><small>Vista de formulario de alta de Detalle.</small></p>
 </div>

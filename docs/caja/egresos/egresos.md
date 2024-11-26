@@ -15,7 +15,7 @@ En esta sección se explica cómo realizar la **carga de egresos** en el sistema
 
    <div style={{ textAlign: 'center' }}>
       <img 
-        src="../../img/alta-egreso.png"
+        src="../../../img/alta-egreso.png"
         alt="Alta de Egreso" 
         style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
       />
@@ -72,7 +72,7 @@ A continuación, se muestra la vista de un egreso cargado en la sección **Egres
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/alta-egreso-form.png" 
+    src="../../../img/alta-egreso-form.png" 
     alt="Vista de Venta Cargados" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />

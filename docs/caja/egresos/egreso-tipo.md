@@ -16,7 +16,7 @@ A continuación, te mostramos un ejemplo del tablero principal, resaltando el bo
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/boton-configuracion.png" 
+    src="../../../img/boton-configuracion.png" 
     alt="Ubicación del botón de configuración en CajaRápida" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
@@ -30,7 +30,7 @@ A continuación, te mostramos un ejemplo del tablero principal, resaltando el bo
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/agregar-tipoegreso.png" 
+    src="../../../img/agregar-tipoegreso.png" 
     alt="Ubicación del botón de configuración en CajaRápida" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
@@ -63,7 +63,7 @@ A continuación, se muestra la vista de un tipo cargado en la sección **Tipo de
 
 <div style={{ textAlign: 'center' }}>
   <img 
-    src="../../img/alta-egreso-tipo.png" 
+    src="../../../img/alta-egreso-tipo.png" 
     alt="Vista de Venta Cargados" 
     style={{ maxWidth: '700px', border: '1px solid #ddd', borderRadius: '8px' }} 
   />
