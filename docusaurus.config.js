@@ -15,7 +15,7 @@ const config = {
   favicon: "img/icon.webp",
 
   // Set the production url of your site here
-  url: "https://cajarapida.com.ar",
+  url: "https://docs.cajarapida.com.ar",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
